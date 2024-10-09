@@ -17,7 +17,19 @@ body, html {
     margin: 0;
     font-size: 2em;
   }
-  
+
+h1#site-title {
+    font-size:72px;
+    letter-spacing: -3px;
+    margin-top: 0;
+    margin-bottom: .125cm;
+    text-align: center;
+}
+
+h1#article-title {
+    font-size: 48px;
+}
+
   article {
     padding: 20px;
     max-width: 800px;
