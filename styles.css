@@ -48,7 +48,19 @@ h1#article-title {
     border: 1px solid #ddd;
     border-radius: 8px;
   }
-  
+
+figure.main-image {
+background: PaleVioletRed;
+    border-color: Black;
+    color: #ff;
+}
+
+figure.section-image {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 32px;
+    max-width: 320px;
+}
   figcaption {
     font-style: italic;
     margin-top: 10px;
