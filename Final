@@ -1,0 +1,148 @@
+<html lang="en-US">
+<head>
+  <title>SnapVisuals - Home</title>
+  <link href="styles.css" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1 id="site-title">Welcome to SnapVisuals</h1>
+    <ul>
+        <li><a href="index.html" alt="go to the homepage">Home</a></li>
+        <li><a href="contact.html" alt="go to Contact/About Us">Contact/About Us</a></li>
+        <li><a href="past-work.html" alt="go to Past Work">Past Work</a></li>
+        <li><a href="portfolio.html" alt="go to Portfolio">Portfolio</a></li>
+    </ul>
+  </header>
+
+  <main>
+    <article>
+      <h1 id="article-title">Capturing Your Vision</h1>
+      <figure class="main-image">
+        <img src="C:\Users\13144\Dropbox\My PC (DESKTOP-E0FB3LA)\Downloads\snapvisuals.png" alt="Snap Visuals logo" />
+        <figcaption>Our goal is to brings your ideas and events to life.</figcaption>
+      </figure>
+    </article>
+
+    <p>At SnapVisuals, we specialize in creating beautiful visuals that leave lasting impressions.</p>
+    <section class="section-image">
+      <figure class="main-image">
+        <img src="https://scontent.cdninstagram.com/v/t51.29350-15/465508351_2549565105250447_5599820763595516731_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTc5eDIwOTYuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=MNTl19yKKuQQ7kNvgGrJi5q&_nc_gid=02d6cfc935e74653a3fe535a97ce6953&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzQ5NDIwOTE2MzgwNzE4NTIxOQ%3D%3D.3-ccb7-5&oh=00_AYDv9qcZRxuKVCVZfVHhBrlnvIc1cB6CbKgCta_9vl6_Nw&oe=675FB5DB&_nc_sid=10d13b" alt="Chicago State WBB" />
+        <figcaption>Every shot tells a unique story.</figcaption>
+      </figure>
+    </section>
+  </main>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>SnapVisuals - Contact/About Us</title>
+  <link href="styles.css" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1 id="site-title">Contact & About SnapVisuals</h1>
+    <ul>
+        <li><a href="index.html" alt="go to the homepage">Home</a></li>
+        <li><a href="contact.html" alt="go to Contact/About Us">Contact/About Us</a></li>
+        <li><a href="past-work.html" alt="go to Past Work">Past Work</a></li>
+        <li><a href="portfolio.html" alt="go to Portfolio">Portfolio</a></li>
+    </ul>
+  </header>
+
+  <main>
+    <article>
+      <h1 id="article-title">Get in Touch with Us</h1>
+      <figure class="main-image">
+        <img src="https://scontent.cdninstagram.com/v/t51.29350-15/460631243_3814039728922945_8122289162275563892_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTcweDIwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=fe0IbMSNpzwQ7kNvgGOKFmh&_nc_gid=cffdca5e585b473f943d78153c2afa4e&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzQ1OTI4MDU2NzgwMDQxMTY2OA%3D%3D.3-ccb7-5&oh=00_AYAU9PCcY10AYRNECz56KffqLOcM1fd4Afog6ZkA9lGNqA&oe=675FB982&_nc_sid=10d13b" alt="Founder Ethan Worley" />
+        <figcaption>We're always ready to help you bring your ideas to life.</figcaption>
+      </figure>
+    </article>
+
+    <p>SnapVisuals, is a team of passionate creators dedicated to bringing your vision into reality. Let’s create something amazing together.</p>
+    <section class="section-image">
+      <figure class="main-image">
+        <img src="https://scontent.cdninstagram.com/v/t51.29350-15/448262054_963576791914738_7693817441189678846_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTcweDIwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=mS9nXyKyIOwQ7kNvgFrHCkE&_nc_gid=cffdca5e585b473f943d78153c2afa4e&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzM5MjQ3ODI0MzcyMTAzMzYzNQ%3D%3D.3-ccb7-5&oh=00_AYAXICoNcArkcJBFOw3IletmpHZ3WEIaXuPoG9McSqIupg&oe=675FBA73&_nc_sid=10d13b" alt="Team working at SnapVisuals" />
+        <figcaption>Our team working behind the scenes to capture the perfect shot.</figcaption>
+      </figure>
+    </section>
+  </main>
+</body>
+</html>
+
+
+<html lang="en-US">
+<head>
+  <title>SnapVisuals - Past Work</title>
+  <link href="styles.css" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1 id="site-title">Past Work - SnapVisuals</h1>
+    <ul>
+        <li><a href="index.html" alt="go to the homepage">Home</a></li>
+        <li><a href="contact.html" alt="go to Contact/About Us">Contact/About Us</a></li>
+        <li><a href="past-work.html" alt="go to Past Work">Past Work</a></li>
+        <li><a href="portfolio.html" alt="go to Portfolio">Portfolio</a></li>
+    </ul>
+  </header>
+
+  <main>
+    <article>
+      <h1 id="article-title">Our Previous Work</h1>
+      <figure class="main-image">
+        <img src="https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/458604401_1651033199168912_5116403234283842198_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTcweDIwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_ohc=p0wh_mzJEzYQ7kNvgHKw9ac&_nc_gid=4217d602f2f5439da2f498340a6d9c28&edm=AGFyKLkBAAAA&ccb=7-5&ig_cache_key=MzQ1MTI4NDY1NDY1ODA3Nzk1Mw%3D%3D.3-ccb7-5&oh=00_AYBZMnCBrGyIWVzmO04_-scFdaN_ChT6e6hLsseUxPKxxA&oe=675FBB6F&_nc_sid=5a0a6d" alt="Past work with Chicago legends like Talen Horton(Chicago Bulls), Chase Adams, and Javon Freeman(G-League)" />
+        <figcaption>Check out some of our previous work that helped our clients shine.</figcaption>
+      </figure>
+    </article>
+
+    <section class="section-image">
+      <figure class="main-image">
+        <img src="https://img1.wsimg.com/isteam/ip/1d28bb1e-cdb8-44cb-adf2-84e4cc02b13d/2163D9E1-964B-46F3-8E40-6A9EE7E48DD3.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:1921" alt="Past work with IMG Academy Football team" />
+        <figcaption>Another great example of our visual work for a recent event.</figcaption>
+      </figure>
+    </section>
+  </main>
+</body>
+</html>
+
+<html lang="en-US">
+<head>
+  <title>SnapVisuals - Portfolio</title>
+  <link href="styles.css" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1 id="site-title">Our Portfolio</h1>
+    <ul>
+        <li><a href="index.html" alt="go to the homepage">Home</a></li>
+        <li><a href="contact.html" alt="go to Contact/About Us">Contact/About Us</a></li>
+        <li><a href="past-work.html" alt="go to Past Work">Past Work</a></li>
+        <li><a href="portfolio.html" alt="go to Portfolio">Portfolio</a></li>
+    </ul>
+  </header>
+
+  <main>
+    <article>
+      <h1 id="article-title">Our Best Work</h1>
+      <figure class="main-image">
+        <img src="https://img1.wsimg.com/isteam/ip/1d28bb1e-cdb8-44cb-adf2-84e4cc02b13d/E61BF122-E507-421B-849A-4C376C2284EE.jpeg/:/rs=w:719,h:1278" alt="Ja Morant" />
+        <figcaption>One of our standout projects that demonstrates our visual excellence.</figcaption>
+      </figure>
+    </article>
+
+    <section class="section-image">
+      <figure class="main-image">
+        <img src="https://scontent-ord5-2.cdninstagram.com/v/t51.29350-15/467889381_2094225954353668_8046733486880269534_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTc5eDIwOTYuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_ohc=6A8nBXLH6FMQ7kNvgHRwV5u&_nc_gid=4217d602f2f5439da2f498340a6d9c28&edm=AGFyKLkBAAAA&ccb=7-5&ig_cache_key=MzUwNjcxMTU2Mjg4NzkwNTE1NA%3D%3D.3-ccb7-5&oh=00_AYCZJibx8PEOleATNXyMa7_vCK6VZvRi_e_16K-8jah8dg&oe=675FD657&_nc_sid=5a0a6d" alt="Lindendwood University MBB previous portfolio work" />
+        <figcaption>This project was designed with precision and passion. For more information on snapvisuals look up snapvisuals.com!</figcaption>
+      </figure>
+    </section>
+  </main>
+</body>
+</html>
+
